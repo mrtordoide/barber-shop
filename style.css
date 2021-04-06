@@ -1,5 +1,5 @@
 .navbar {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(Image/wallpaper1.jpg.jpeg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url(Image/wallpaper1.jpg.jpeg);
     background-attachment: fixed;
     background-position: center top;
     background-size: cover;
@@ -12,7 +12,7 @@
 
 .hero {
     color: white;
-    height: 90vh;
+    height: 89vh;
     width: 100%;
     background-size: cover;
     background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(Image/wallpaper1.jpg.jpeg);
@@ -22,5 +22,26 @@
 
 .hero-pos {
     position: absolute;
-    bottom: 40vh
+    bottom: 30vh;
+}
+
+.contact {
+    position: absolute;
+    bottom: 30vh;
+}
+
+.social {
+    width: 36px;
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 5px 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 0 5px;
+}
+
+.social:hover {
+    color: white;
+    background-color: cornflowerblue;
 }
