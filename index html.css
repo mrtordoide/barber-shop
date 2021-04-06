@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Jel'z Barber Shop</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+  <body>
+<div class="hero">
+<div class="nav-bar">
+  <div class="nav-logo">
+    <img src="Image/mogo.jpg.png" alt="">
+    </div>
+  <div class="nav-links">
+<ul>
+  <a href="#"><li>Home</li></a>
+  <a href="#"><li>About</li></a>
+  <a href="#"><li>Services</li></a>
+</ul>
+<button type="button" class="btn">Sign Up</button>
+<div class="vertical-bar">
+  <div class="search-icon">
+  <i class="fa fa-th-list"></i>
+  <i class="fa fa-search"></i>
+  </div>
+  <div class="social-icons">
+    <i class="fa fa-facebook"></i>
+    <i class="fa fa-twitter"></i>
+</div>
+</div>
+
+</div>
+</div>
+  </body>
+</html>
+

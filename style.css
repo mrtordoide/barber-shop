@@ -1,0 +1,26 @@
+.navbar {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(Image/wallpaper1.jpg.jpeg);
+    background-attachment: fixed;
+    background-position: center top;
+    background-size: cover;
+}
+
+.nav-link.active,
+.nav-link:hover {
+    border-bottom: 2px solid white;
+}
+
+.hero {
+    color: white;
+    height: 90vh;
+    width: 100%;
+    background-size: cover;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(Image/wallpaper1.jpg.jpeg);
+    background-position: center top;
+    background-attachment: fixed;
+}
+
+.hero-pos {
+    position: absolute;
+    bottom: 40vh
+}
